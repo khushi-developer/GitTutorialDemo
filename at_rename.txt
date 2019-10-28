@@ -1,0 +1,2 @@
+this is git vcs
+this is modification of my txt file
